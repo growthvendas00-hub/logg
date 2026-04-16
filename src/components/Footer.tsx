@@ -37,9 +37,9 @@ const Footer = () => {
         </div>
 
         <div className="mt-10 pt-6 text-center text-xs" style={{ borderTop: "1px solid rgba(255,255,255,0.1)", color: "rgba(255,255,255,0.5)" }}>
-          <p className="font-bold mb-1">Santo Andre Construtora e Incorporadora LTDA</p>
-          <p>CNPJ: 07.828.839/0001-61</p>
-          <p className="mt-1">Endereço: Avenida Antonio Artioli 570, 570 - Campinas - SP</p>
+          <p className="font-bold mb-1">Nacional Construtora LTDA</p>
+          <p>CNPJ: 11.075.076/0001-00</p>
+          <p className="mt-1">Endereço: Sala 506 Bloco Torre 1 Cond Hc Plaza - Natal - RN - 59075-050</p>
           <p className="mt-2 text-[10px]" style={{ color: "rgba(255,255,255,0.35)" }}>
             © {new Date().getFullYear()} Todos os direitos reservados.
           </p>
